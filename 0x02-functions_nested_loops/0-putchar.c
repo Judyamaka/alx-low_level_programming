@@ -1,8 +1,8 @@
 #include "main.h"
+
 /**
- * main - print _putchar by Ama
- *
- * Return: 0
+ * main - print _putchar
+ * Return: Always 0
  */
 int main(void)
 {
