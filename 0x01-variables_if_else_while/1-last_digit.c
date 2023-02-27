@@ -21,7 +21,11 @@ int main(void)
 	{
 		printf("and is greater than 5");
 	}
+<<<<<<< HEAD
 	if (x == 0)
+=======
+ 	if (x == 0)
+>>>>>>> 2d36154fbd466e2931f201648c9d6f3cdb51c700
 	{
 		printf("and is 0");
 	}
